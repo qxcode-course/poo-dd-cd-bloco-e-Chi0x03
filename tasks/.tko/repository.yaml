@@ -18,7 +18,9 @@ sources:
 expanded:
 - poo@campanha-principal
 - poo@bloco_f-herança-i
-tasks: {}
+tasks:
+  poo@zoo: '{rate:100, guide:aula_do_professor, other:pesquisa_para_ver_como_exibir_o_tipo_da_classe_na_funcao_apresentar,
+    alone:10, study:60}'
 flags:
   quests: 0
   tracks: 0
